@@ -253,7 +253,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Penrhyn Castle Tour v3.5",
+  "name": "Penrhyn Castle Tour English",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
